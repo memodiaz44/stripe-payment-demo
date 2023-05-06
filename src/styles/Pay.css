@@ -1,0 +1,17 @@
+.Pay{
+    background-color: rgb(0, 76, 255)124, 211, 211;
+    margin-top: 200px;
+}
+
+.payment {
+    background-color: rgb(45, 54, 51);
+    height: 80px;
+    width: 120px;
+    border-radius: 10%;
+    color: aliceblue;
+}
+
+.success-prompt{
+    background-color: black;
+    color: azure;
+}
