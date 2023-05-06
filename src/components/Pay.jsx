@@ -42,7 +42,7 @@ const Pay = () => {
         </div>
       ) : (
         <StripeCheckout
-          name="the kill"
+          name="payment"
           image={Logo}
           billingAddress
           shippingAddress
